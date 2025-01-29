@@ -1,0 +1,1 @@
+This error occurs when you try to use a component or a function from a library that is not properly installed or linked in your React Native project. This can happen if you have missed a step during the installation process, such as linking native modules or running post-install scripts.
